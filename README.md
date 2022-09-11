@@ -11,4 +11,5 @@ Desired Workflow
 5) Clone the repository to an ec2 server and run the application using the container image
 6)Automate it
 7) Whenever a new commit is pushed to the main github branch the application needs to get built using docker and needs to get pushed to the ec2 server automatically
+
 *8) Optional  -: Use kubernetes to host the application
